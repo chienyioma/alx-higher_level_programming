@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def uppercase(str):
     for i in str:
 # Check for lowercase using if statement
