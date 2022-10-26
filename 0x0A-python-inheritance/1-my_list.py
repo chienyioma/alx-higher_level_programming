@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Defines the module."""
+
+
 class MyList(list):
     """ Class that inherits the attributes references of class list
     Args:
